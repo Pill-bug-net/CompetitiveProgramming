@@ -3,7 +3,7 @@
 using namespace std;
 /*
 Question and Answer format.
- https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ITP1_6_C&lang=en
+https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ITP1_6_C&lang=en
 */
 
 
